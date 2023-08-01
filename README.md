@@ -63,7 +63,7 @@ Proyecto de Kotlin realizado durante el tercer trimestre del Tecnólogo en Anál
 
 # Funcionamiento del código del Proyecto
 
--**MainActivity:**
+[-**MainActivity:**](app/src/main/java/com/example/dashboard_cba/MainActivity.kt)
 
   * *Clase [MainActivity] que representa la actividad principal de la aplicación. Esta actividad se inicia al iniciar la aplicación y se encarga de configurar el contenido de la interfaz de usuario.*
 
