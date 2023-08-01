@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Tienda_Cba</string>
+    <string name="back_button">Back</string>
+    <string name="forward_button">Forward</string>
+    <string name="CanalTienda">Canal Tienda</string>
+    <string name="Canal_de_Notificaciones_Tienda_CBA">Canal de Notificaciones Tienda CBA</string>
+    <string name="Rosa">Rosa</string>
+    <string name="Rosa_Texto">Los rosales son plantas arbustivas y leñosas, normalmente de hoja caduca, aunque las hay de hoja perenne, su tallo es circular,
+        verdes y con abundancia de espinas cuando son jóvenes y marrones y con pocas o ninguna espina cuando son ramas viejas.</string>
+    <string name="Narciso">Narciso</string>
+    <string name="Narciso_Texto">El narciso es una flor bulbosa, que comienza a crecer a finales de invierno, y llega a su máximo esplendor una vez entrada la primavera.
+        Es fácil de distinguir por sus hojas en forma de trompeta y su llamativo y alegre color amarillo. Existe una gran variedad de especies distintas de narcissus.</string>
+    <string name="Jazmin">Jazmin</string>
+    <string name="Jazmin_Texto">El jazmín es un atractivo arbusto de flores amarillas y follaje siempreverde, que puede alcanzar hasta 4 metros de altura.
+        Crece de forma muy ramificada y está recubierto por una corteza lisa y de coloración pardo-amarillenta.</string>
+    <string name="Margarita">Margarita</string>
+    <string name="Margarita_Texto">Las flores de Jazmin externas son liguladas, blancas, femeninas, y las internas son hermafroditas y de color amarillo.
+        Florece de mayo a septiembre. Planta herbácea perenne, con tallos de 20 a 70 cm de altura. En la base tiene una roseta de hojas de 1.5 a 10 cm,
+        obovadas, ovadas y provistas de un largo peciolo.</string>
+    <string name="Pera">Pera</string>
+    <string name="Pera_Texto">La pera es una fruta en forma de bombilla; su cáscara es lisa, la cual puede ser de color verde, amarillo, café o rojizo.
+        La pulpa es blanca y jugosa, ligeramente “harinosa” al paladar, tiene un sabor dulce y es refrescante gracias a su alto contenido de agua.</string>
+    <string name="Manzana">Manzana</string>
+    <string name="Manzana_Texto"> La manzana o poma​ es el fruto comestible de la especie Malus domestica, el manzano común.
+        Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad. % de la cantidad diaria recomendada para adultos.</string>
+    <string name="Naranja">Naranja</string>
+    <string name="Naranja_Texto">La naranja es un hesperidio carnoso de cáscara más o menos gruesa y endurecida y su pulpa está formada típicamente
+        por once gajos u hollejos llenos de jugo, el cual contiene mucha vitamina C, flavonoides y aceites esenciales. Se cultiva como un antiguo
+        árbol ornamental y para obtener fragancias de sus frutos.</string>
+    <string name="Mango">Mango</string>
+    <string name="Mango_Texto">La naranja tiene forma ovalada, con la piel no comestible y color variable de amarillo pálido a rojo intenso.
+        La pulpa es pegajosa y su coloración también varía, desde amarillo a anaranjado. El sabor del mango maduro es dulce, y bastante ácido cuando aún está verde.
+        Es una fruta jugosa y fibrosa, y poseen un hueso interior.</string>
+    <string name="Platano">Platano</string>
+    <string name="Platano_Texto">El plátano es una fruta tropical procedente de la planta herbácea que recibe el mismo nombre o banano,
+        perteneciente a la familia de las musáceas. Tiene forma alargada o ligeramente curvada, de 100–200 g de peso. La piel es gruesa,
+        de color amarillo y fácil de pelar, y la pulpa es blanca o amarillenta y carnosa.</string>
+    <string name="Papa">Papa</string>
+    <string name="Papa_Texto">La papa es un tubérculo comestible que crece bajo la tierra. Su principal función es almacenar o acumular nutrientes.
+        La planta requiere mucha humedad de forma regular. Responde bien a las temperaturas templadas, sufre cuando es excesiva y sobre todo cuando hay sequía.</string>
+    <string name="Yuca">Yuca</string>
+    <string name="Yuca_Texto">La yuca perteneciente a la familia Euphorbiaceae, es un cultivo perenne con abundantes ramas y mide hasta dos metros de altura.
+        Sus flores son de color amarillo verdoso y los frutos son parecidos a pequeños plátanos y son comestibles.</string>
+    <string name="Tomate">Tomate</string>
+    <string name="Tomate_Texto">El tomate tiene hojas fuertemente aromáticas con bordes dentados. Florece con abundancia y sus flores pequeñas y amarillas producen frutos
+        muy coloreados de tonos que van del amarillento al rojo, debido a la presencia de pigmentos como el licopeno y los carotenos.</string>
+    <string name="Huevo_Gallina">Huevo Blanco</string>
+    <string name="Huevo_Gallina_Texto">El color de la cáscara viene determinado por la raza de la gallina ponedora, por lo que se trata de una diferencia
+        que tiene que ver con la genética de la gallina, pero no con la calidad del huevo. Así, las gallinas blancas pondrán huevos blancos.</string>
+    <string name="Huevo_Pato">Huevo Pato</string>
+    <string name="Huevo_Pato_Texto">Son ligeramente más grandes y tienen más sabor que los huevos de gallina aunque también tienen más cantidad de grasa.
+        Además de ser ricos en proteínas contienen vitamina A (buena para la vista), E (con propiedades antioxidantes), B2, B5 y minerales como fósforo,
+        hierro calcio y potasio.</string>
+    <string name="Huevo_Codorniz">Huevo Codorniz</string>
+    <string name="Huevo_Codorniz_Texto">Los huevos de codorniz son un alimento saludable que se puede incluir en la dieta de forma regular.
+        Son más pequeños que los de gallina, tienen un sabor muy parecido y son más densos desde el punto de vista nutricional ya que son más
+        calóricos y cuentan con alto contenido en ciertos minerales esenciales.</string>
+    <string name="Huevo_Faisan">Huevo Codorniz</string>
+    <string name="Huevo_Faisan_Texto">La cáscara del huevo de faisán es de color caqui y es un poco más grande que el huevo de una codorniz.
+        La yema es bastante grande y para hervirlo se necesitan 3 minutos. Los huevos de faisán se pueden encontrar en los mercados a principios
+        de la primavera durante seis a ocho semanas.</string>
+    <string name="Leche_Entera">Leche Entera</string>
+    <string name="Leche_Entera_Texto">la leche entera es un tipo de leche que no ha pasado por un proceso de reducción en el contenido original de grasa
+        (entre 3 y 3,5% por cada 100 ml de leche). Tiene un sabor mucho más completo y es la opción más recomendada para niños y también para adultos sanos,
+        por su alto valor nutricional.</string>
+    <string name="Leche_Descremada">Leche Descremada</string>
+    <string name="Leche_Descremada_Texto">La leche descremada es aquella que está libre de grasa. Contiene la misma cantidad de proteínas,
+        calcio y carbohidratos (lactosa) que la leche tradicional, la única diferencia es que no tiene grasa.</string>
+    <string name="Leche_Deslactosada">leche Deslactosada</string>
+    <string name="Leche_Deslactosada_Texto">La leche deslactosada es aquella que está libre de grasa.
+        Contiene la misma cantidad de proteínas, calcio y carbohidratos (lactosa) que la leche tradicional, la única diferencia es que no tiene grasa.</string>
+    <string name="Leche_Almendras">leche de Almendras</string>
+    <string name="Leche_Almendras_Texto">La leche de almendras se prepara mezclando las almendras con agua y luego colando la mezcla para eliminar los sólidos.
+        También puedes prepararla agregando agua a la mantequilla de almendras. Tiene un agradable sabor a nuez y una textura cremosa similar a la de la leche normal.</string>
+    <string name="Curcuma">Curcuma</string>
+    <string name="Curcuma_Texto">Planta de la India Oriental que pertenece a la familia del jengibre, y que se usa como especia y colorante alimentario.
+        En algunas culturas, se usan los tallos subterráneos para tratar ciertos problemas del estómago.</string>
+    <string name="Comino">Comino</string>
+    <string name="Comino_Texto">El fruto es un diaquenio, de 3 a 6 mm, levemente curvado, de color marrón y un olor característico.
+        Usos comerciales: Usos comerciales: Usos comerciales: El comino empleado en la gastronomía tiene un sabor cálido, muy aromático, un poco amargo y picante,
+        así como un olor penetrante y dulzón.</string>
+    <string name="Canela">Canela</string>
+    <string name="Canela_Texto">Se trata de un árbol siempre verde que llega a crecer hasta 13 metros, cuya corteza esun condimento con gran sabor.
+        Las hojas miden de 7 a 25 cm de largo, y de 3 a 8 cm de ancho; son ovaladas,puntiagudas y de color verde brillante en la cara superior.</string>
+    <string name="Pimienta">Chili</string>
+    <string name="Pimienta_Texto">Los granos de pimienta son las bayas del árbol Piper nigrum, de la familia de las piperáceas,
+        un árbol trepador que crece en zonas tropicales húmedas. Es una planta lisa que trepa por medio de sus raíces adhesivas.
+        Los tallos son redondos, con nudos muy engrosados, opacos y de color verde claro o verde amarillento.</string>
+    <string name="Noticia1">A un solo clic</string>
+    <string name="Noticia1_Texto">El Servicio Nacional de Aprendizaje (SENA) presenta la primera edición de la Revista Digital SENA Comunica,
+        publicación en la que todos podrán conocer más sobre la entidad más querida por los colombianos.</string>
+    <string name="Noticia2">CampeSENA se fortalece</string>
+    <string name="Noticia2_Texto">Metodólogos de normalización y facilitadores de instancias de concertación y competencias laborales de las regionales
+        del SENA en Cauca, Tolima, Valle del Cauca, Caldas, Risaralda, Nariño y Quindío hicieron parte del Encuentro de Actores del Proceso GICCL.</string>
+    <string name="Noticia3">Aprendices crean aplicación innovadora</string>
+    <string name="Noticia3_Texto">Un grupo de aprendices pertenecientes al Semillero de Investigación ContaInnova, que provienen de distintos sectores
+        rurales de Nariño y que se forman en el programa tecnólogo en Gestión Contable y Financiera del Centro Lope, crearon la UpFinanzApp, una aplicación
+        que les permite a los campesinos del departamento administrar de mejor manera los recursos de sus unidades productivas.</string>
+    <string name="Noticia4">Jóvenes de Bogotá certificarán su experiencia</string>
+    <string name="Noticia4_Texto">Con el fin de contribuir a la reducción del riesgo social de jóvenes vulnerables, entre los 18 y 28 años que hacen parte del Servicio
+        Social Parceros por Bogotá (SSPB), se abre la convocatoria que reconoce los aprendizajes que han adquirido a lo largo de la vida para aportar a su permanencia y
+        movilidad laboral.</string>
+    <string name="Noticia5">La historia de lucha de Martha</string>
+    <string name="Noticia5_Texto">En Colombia habitan voces de resiliencia, voces que pertenecen a personas que llenas de esperanza, día a día, se levantan a hacer del mundo un lugar mejor y colmado de oportunidades.    </string>
+    <string name="Noticia6">‘Tejido de Paz’</string>
+    <string name="Noticia6_Texto">En el Centro Comunitario Jimaín, territorio ancestral arhuaco de la Sierra Nevada de Santa Marta, se llevó a cabo ayer
+        viernes 29 de julio el lanzamiento del proyecto Tejido de Paz, iniciativa del Servicio Nacional de Aprendizaje(SENA).</string>
+</resources>
