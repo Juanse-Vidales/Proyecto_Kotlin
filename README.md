@@ -67,100 +67,96 @@ Proyecto de Kotlin realizado durante el tercer trimestre del Tecnólogo en Anál
 
   * *Clase [MainActivity] que representa la actividad principal de la aplicación. Esta actividad se inicia al iniciar la aplicación y se encarga de configurar el contenido de la interfaz de usuario.*
 
--***Carpeta Components:***
+[-***Carpeta Components:***](app/src/main/java/com/example/dashboard_cba/components)
 
--**ItemsBar:**
+[-**ItemsBar:**](app/src/main/java/com/example/dashboard_cba/components/Items_Bar.kt)
 
   * *Define una clase sellada llamada "Items_Bar" que representa elementos de una barra de íconos en un dashboard.*
 
--**MainPage:**
+[-**MainPage:**](app/src/main/java/com/example/dashboard_cba/components/MainPage.kt)
 
   -*Función principal que representa la páginas del dashboard.*
   
--**MenuItem:**
+[-**MenuItem:**](app/src/main/java/com/example/dashboard_cba/components/MenuItem.kt)
 
 * *Define una clase sellada llamada "MenuIetm" que representa elementos de una barra de lateral en un dashboard.*
 
--**NavigationBottom:**
+[-**NavigationBottom:**](app/src/main/java/com/example/dashboard_cba/components/Navigation_Bottom.kt)
 
   * *Composición del BottomAppBar que representa la barra inferior del dashboard.*  
   
--**NavigationDrawer:**
+[-**NavigationDrawer:**](app/src/main/java/com/example/dashboard_cba/components/Navigation_Drawer.kt)
 
   * *Composición del menú lateral (Drawer).*
 
--**NavigationHost:**
+[-**NavigationHost:**](app/src/main/java/com/example/dashboard_cba/components/Navigation_Host.kt)
 
   * *Menú del Drawer.*  
   
--**NotificactionsChannel:**
+[-**NotificactionsChannel:**](app/src/main/java/com/example/dashboard_cba/components/NotificationsChannel.kt)
 
   * *Función para crear un canal de notificación en dispositivos Android 8.0 y versiones superiores.*
 
--**TiendaApp:**
+[-**TiendaApp:**](app/src/main/java/com/example/dashboard_cba/components/TiendaApp.kt)
 
   * *Enumeración que define las pantallas posibles en la aplicación.*  
   
--**TopBar:**
+[-**TopBar:**](app/src/main/java/com/example/dashboard_cba/components/TopBar.kt)
 
   * *Define la funcion del menu desplegable.*
 
--***Carpeta Pages:***
+[-***Carpeta Pages:***](app/src/main/java/com/example/dashboard_cba/pages)
 
--**Page_Contenidos:**
+[-**Page_Contenidos:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Contenidos.kt)
 
-  * *Pagina principal donde se muestran todos los productos.*  
-
--**Page_Contenidos:**
-
-  * *Pagina principal donde se muestran todos los productos.*  
+  * *Pagina principal donde se muestran todos los productos.*   
   
--**Page_Flores:**
+[-**Page_Flores:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Flores.kt)
 
   * *Pagina de flores donde se muestran unicamente los productos relacionados con flores.*  
   
--**Page_Frutas_verduras:**
+[-**Page_Frutas_verduras:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Frutas_Verduras.kt)
 
   * *Pagina de frutas y verduras donde se muestran unicamente los productos relacionados con frutas y verduras.*  
   
--**Page_Huevos:**
+[-**Page_Huevos:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Huevos.kt)
 
    * *Pagina de huevos donde se muestran unicamente los productos relacionados con huevos.*  
   
--**Page_Informacion:**
+[-**Page_Informacion:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Informacion.kt)
 
   * *Pagina donde se encuentra toda la informacion relacionada con CampeSENA.*  
   
--**Page_Inicio:**
+[-**Page_Inicio:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Inicio.kt)
 
   * *Pagina donde se explica que es CampeSena.*  
   
--**Page_Lacteos:**
+[-**Page_Lacteos:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Lacteos.kt)
 
   * *Pagina de frutas y verduras donde se muestran unicamente los productos relacionados con frutas y verduras.*  
   
--**Page_Principal:**
+[-**Page_Principal:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Principal.kt)
 
   * *Pagina principal donde se muestra el Goole Maps funcional.*  
    
--**Page_Ver_Mas:**
+[-**Page_Ver_Mas:**](app/src/main/java/com/example/dashboard_cba/pages/Page_Ver_Mas.kt)
 
   * *Pagina donde se muestan productos del tipo condimentos.*  
   
--***Carpeta Home:***
+[-***Carpeta Home:***](app/src/main/java/com/example/dashboard_cba/pages/home)
 
--**SplashScreen:**
+[-**SplashScreen:**](app/src/main/java/com/example/dashboard_cba/pages/home/SplashScreen.kt)
 
   * *Función principal que muestra el splash previo al login.*
   
--***Carpeta Login:***
+[-***Carpeta Login:***](app/src/main/java/com/example/dashboard_cba/pages/login)
 
--**LoginScreen:**
+[-**LoginScreen:**](app/src/main/java/com/example/dashboard_cba/pages/login/LoginScreen.kt)
 
   * *Función principal que muestra el formulario del login.*
   
--***Carpeta Utils:***
+[-***Carpeta Utils:***](app/src/main/java/com/example/dashboard_cba/utils)
 
--**Constants:**
+[-**Constants:**](app/src/main/java/com/example/dashboard_cba/utils/Constants.kt)
 
   * *Objeto [Constants] que contiene constantes utilizadas en la aplicación.*
