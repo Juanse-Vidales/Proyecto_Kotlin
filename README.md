@@ -11,11 +11,11 @@
 
 -*Dicha página también incluye un video de fondo con una card con el formulario, la card consta de un color azul aguamarina en un estilo claro. El botón de iniciar sesión o registrarse no estará activo hasta que los campos previos se hayan diligenciado.*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 13](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/eeae6eb4-0958-4ad4-903f-85da7fab3655)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/60c04efb-5ead-450b-baf8-e23ff3a28cc3)
 
 -*Después de esta página se encuentra una que envía al usuario a una página principal donde se muestra la ubicación del SENA CBA en Google Maps, donde se podrá interactuar con el mapa y ver más de cerca las ubicaciones que se encuentran cerca del mismo.*
 
-![WhatsApp Image 2023-07-27 at 3 19 49 PM](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/951a2097-e896-47e4-b86a-b05cee0058d1)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/125a6d94-ec47-4cc4-a6f8-35394989b0a4)
 
 -*En la parte inferior de la página se encuentran de 3 objetos, de izquierda a derecha serian: un botón de "Inicio" con el logo de un ciclista, un botón de "Contenidos" con el logo de una moto scooter, un botón de "Información" con el logo de reciclaje y un menú del tipo hamburguesa que aún se encuentra en su etapa de desarrollo. Cada una de estas dirige a una página diferente de la aplicación.*
 
@@ -31,11 +31,11 @@
 
 -*En la página de "Contenidos" se encuentran los productos de la aplicación, dichos productos se encuentran en cards, las cards tienen la imagen del producto, el nombre del producto y una descripción del producto, además de constar de un icono de agregar a favoritos en color rojo, este icono al usarlo envía una notificación, también se encuentran los botones de comprar y más detalles, estos botones también tienen unas notificaciones que se envían al usarlos*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 13](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/8a93f9de-1f06-4c1c-a090-c750abd15966)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/6fcb6e39-58df-4667-974a-44550c1f49fb)
 
 -*En la página de "Información" se encuentra la manera de acceder a Campe SENA, explica las diferentes maneras de acceder al mismo, además de que también muestra cuáles son sus beneficios*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 13](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/aaca2813-83b6-45e8-b6d8-d26e0a114b99)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/0abdb54d-5754-4b82-b0be-d1cd9bba9bb6)
 
 -*Al usar el menú hamburgués que se encuentra en la parte superior izquierda se mostrara una imagen horizontal de Campe SENA, seguidos hacia abajo se encuentran las diversas paginas visitables, entre ellas están: La Página Principal, La página de las Flores, la página de las Frutas y Verduras, la página de los Huevos, la página de los lácteos, la página de Ver Más*
 
@@ -43,23 +43,23 @@
 
 -*En la página de Flores se encuentran únicamente los productos de tipo flores, que vienen construidos en cards con sus respectivos botones e iconos funcionales*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 13](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/5baf4159-f772-4019-abfd-76701d73d141)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/add7ab15-ab83-42ae-80f0-84aebaffff95)
 
 -*En la página de Frutas y Verduras se encuentran únicamente los productos de tipo Futas y Verduras, que vienen construidos en cards con sus respectivos botones e iconos funcionales*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 13](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/895adb54-be19-4cb7-8eb0-da74e567e732)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/6628100c-96c3-45a9-9942-b5374a8f7c1e)
 
 -*En la página de Huevos se encuentran únicamente los productos de tipo Huevos, que vienen construidos en cards con sus respectivos botones e iconos funcionales*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 14](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/db4291e0-f52d-462e-ae1c-7865deb50f5d)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/a5b1d9cd-cd24-4fb5-a3ce-bf50b855ecd0)
 
 -*En la página de Lácteos se encuentran únicamente los productos de tipo Lácteos, que vienen construidos en cards con sus respectivos botones e iconos funcionales*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 14](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/0d7c8f9c-d3cb-48a7-a08f-78e4005b4012)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/8039d1ed-0095-42dc-b023-03146550970f)
 
 -*En la página de Ver Más se encuentran únicamente los productos de tipo Condimentos, que vienen construidos en cards con sus respectivos botones e iconos funcionales*
 
-![Imagen de WhatsApp 2023-08-01 a las 13 13 14](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/6cd441b1-737f-4896-886d-05e8f57c8d60)
+![image](https://github.com/IanMoonn/Proyecto_Kotlin/assets/110430143/5008aeaa-608e-4d9e-b823-facd9961ac11)
 
 # Funcionamiento del código del Proyecto
 
